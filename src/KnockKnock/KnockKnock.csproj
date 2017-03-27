@@ -104,7 +104,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
-    <Content Include="ReadifyKnockKnock.XML" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
