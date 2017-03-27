@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockKnock.WebApi", "KnockKnock\KnockKnock.WebApi.csproj", "{3D8E7A18-D8B3-4A4A-BFC4-3DF952FAB17A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockKnock.WebApi", "KnockKnock.WebApi\KnockKnock.WebApi.csproj", "{3D8E7A18-D8B3-4A4A-BFC4-3DF952FAB17A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockKnock.WebApi.Tests", "KnockKnock.Tests\KnockKnock.WebApi.Tests.csproj", "{A31876ED-489A-46C9-AEBD-A7B3BD81230C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockKnock.WebApi.Tests", "KnockKnock.WebApi.Tests\KnockKnock.WebApi.Tests.csproj", "{A31876ED-489A-46C9-AEBD-A7B3BD81230C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

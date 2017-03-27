@@ -94,7 +94,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\KnockKnock\KnockKnock.WebApi.csproj">
+    <ProjectReference Include="..\KnockKnock.WebApi\KnockKnock.WebApi.csproj">
       <Project>{3d8e7a18-d8b3-4a4a-bfc4-3df952fab17a}</Project>
       <Name>KnockKnock.WebApi</Name>
     </ProjectReference>
