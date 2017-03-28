@@ -251,7 +251,7 @@ namespace ReadifyKnockKnock
 
         private static string GetXmlCommentsPath()
         {
-            string path = String.Format(@"{0}\bin\KnockKnock.XML", System.AppDomain.CurrentDomain.BaseDirectory);
+            string path = String.Format(@"{0}\KnockKnockComments.xml", System.AppDomain.CurrentDomain.BaseDirectory);
             if (!File.Exists(path))
                 throw new Exception("File does not exists.");
             return path;

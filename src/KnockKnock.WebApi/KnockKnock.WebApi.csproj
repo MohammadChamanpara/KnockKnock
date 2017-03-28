@@ -103,6 +103,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="KnockKnockComments.xml" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
