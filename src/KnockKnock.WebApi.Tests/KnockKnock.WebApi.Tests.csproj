@@ -84,7 +84,6 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Test Classes\FibanacciControllerTests.cs" />
-    <Compile Include="Test Classes\TokenControllerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Test Classes\ReverseWordsControllerTests.cs" />
     <Compile Include="Test Classes\TriangleTypeControllerTests.cs" />

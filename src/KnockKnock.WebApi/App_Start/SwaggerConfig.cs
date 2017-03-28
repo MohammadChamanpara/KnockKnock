@@ -32,7 +32,7 @@ namespace ReadifyKnockKnock
                         // hold additional metadata for an API. Version and title are required but you can also provide
                         // additional fields by chaining methods off SingleApiVersion.
                         //
-                        c.SingleApiVersion("v1", "ReadifyKnockKnock");
+                        c.SingleApiVersion("v1", "MHCH WebApi KnockKnock");
 
                         // If your API has multiple versions, use "MultipleApiVersions" instead of "SingleApiVersion".
                         // In this case, you must provide a lambda that tells Swashbuckle which actions should be
@@ -203,7 +203,7 @@ namespace ReadifyKnockKnock
                         // It can be set to "None" (default), "List" (shows operations for each resource),
                         // or "Full" (fully expanded: shows operations and their details).
                         //
-                        c.DocExpansion(DocExpansion.List);
+                        c.DocExpansion(DocExpansion.Full);
 
                         // Specify which HTTP operations will have the 'Try it out!' option. An empty paramter list disables
                         // it for all operations.
