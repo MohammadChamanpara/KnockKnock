@@ -1,5 +1,5 @@
 # KnockKnock WebApi project
-This project implements and solves a few problems with high performance algorithms using Microsoft WebApi:
+This project implements a few algorithms with high performance using Microsoft WebApi:
 - Fibonacci Number
 - ReverseWords
 - Triangle Types
